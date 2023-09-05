@@ -130,7 +130,7 @@ jupyter notebook password
 ```
 ### nohup command is use for background proccess
 ```
-nohup jupyter notebook ip=0.0.0.0 &
+nohup jupyter notebook --ip=0.0.0.0 &
 ```
 ### Run the data_ingestion file is used to collect, clean, and prepare data from multiple sources for analysis or machine learning projects.
 ```
