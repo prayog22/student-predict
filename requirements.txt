@@ -1,4 +1,4 @@
-# For python 3.9 version 
+# For python 3.10.12 version 
 
 pandas==1.5.3
 numpy==1.24.3
@@ -10,3 +10,4 @@ xgboost==1.7.6
 dill==0.3.6
 Flask==2.2.5
 -e .
+
